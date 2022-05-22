@@ -1,0 +1,340 @@
+2022.05.20 16:57:41 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xtbl/dev/SCALA/scala3/.metals/lsp.trace.json or /Users/xtbl/Library/Caches/org.scalameta.metals/lsp.trace.json[0m
+2022.05.20 16:57:41 INFO  logging to file /Users/xtbl/dev/SCALA/scala3/.metals/metals.log[0m
+2022.05.20 16:57:41 INFO  Started: Metals version 0.11.5 in workspace '/Users/xtbl/dev/SCALA/scala3' for client Neovim 0.8.0.[0m
+2022.05.20 16:57:42 INFO  time: initialize in 1.27s[0m
+2022.05.20 16:57:43 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.[0m
+2022.05.20 16:57:43 WARN  Build server is not auto-connectable.[0m
+2022.05.20 16:57:52 INFO  running '/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/jre/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/41/fq3_hfz910n8s4x8996ly0sc0000gp/T/metals7980450691838140746/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2022.05.20 16:57:54 INFO  [info] welcome to sbt 1.6.2 (Oracle Corporation Java 1.8.0_192)[0m
+2022.05.20 16:57:56 WARN  no build target for: /Users/xtbl/dev/SCALA/scala3/src/main/scala/Main.scala[0m
+2022.05.20 16:57:57 INFO  [info] loading settings for project scala3-build-build from metals.sbt ...[0m
+2022.05.20 16:57:58 INFO  [info] loading project definition from /Users/xtbl/dev/SCALA/scala3/project/project[0m
+2022.05.20 16:57:59 INFO  no build target found for /Users/xtbl/dev/SCALA/scala3/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.1.2[0m
+2022.05.20 16:58:01 INFO  [info] loading settings for project scala3-build from metals.sbt ...[0m
+2022.05.20 16:58:01 INFO  [info] loading project definition from /Users/xtbl/dev/SCALA/scala3/project[0m
+2022.05.20 16:58:03 WARN  no build target for: /Users/xtbl/dev/SCALA/scala3/build.sbt[0m
+2022.05.20 16:58:05 INFO  [success] Generated .bloop/scala3-build.json[0m
+2022.05.20 16:58:05 INFO  [success] Total time: 4 s, completed May 20, 2022 4:58:05 PM[0m
+2022.05.20 16:58:07 INFO  [info] loading settings for project root from build.sbt ...[0m
+2022.05.20 16:58:07 INFO  [info] set current project to scala3 (in build file:/Users/xtbl/dev/SCALA/scala3/)[0m
+2022.05.20 16:58:14 INFO  [success] Generated .bloop/root.json[0m
+2022.05.20 16:58:14 INFO  [success] Generated .bloop/root-test.json[0m
+2022.05.20 16:58:14 INFO  [success] Total time: 7 s, completed May 20, 2022 4:58:14 PM[0m
+2022.05.20 16:58:14 INFO  time: ran 'sbt bloopInstall' in 21s[0m
+2022.05.20 16:58:14 INFO  Attempting to connect to the build server...[0m
+2022.05.20 16:58:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xtbl/dev/SCALA/scala3/.metals/bsp.trace.json or /Users/xtbl/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2022.05.20 16:58:14 INFO  Attempting to connect to the build server...[0m
+2022.05.20 16:58:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xtbl/dev/SCALA/scala3/project/.metals/bsp.trace.json or /Users/xtbl/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2022.05.20 16:58:17 INFO  time: Connected to build server in 3.01s[0m
+2022.05.20 16:58:17 INFO  Connected to Build server: Bloop v1.5.0[0m
+2022.05.20 16:58:17 INFO  time: Imported build in 0.1s[0m
+2022.05.20 16:58:23 INFO  time: indexed workspace in 6.48s[0m
+2022.05.20 16:58:23 INFO  compiling root (1 scala source)[0m
+2022.05.20 16:58:29 INFO  compiling root-test (1 scala source)[0m
+2022.05.20 16:58:29 INFO  time: compiled root in 5.46s[0m
+2022.05.20 16:58:30 INFO  time: compiled root-test in 1.12s[0m
+2022.05.20 17:00:31 INFO  shutting down Metals[0m
+2022.05.20 17:00:31 INFO  Shut down connection with build server.[0m
+2022.05.20 17:00:31 INFO  Shut down connection with build server.[0m
+2022.05.20 17:02:22 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xtbl/dev/SCALA/scala3/.metals/lsp.trace.json or /Users/xtbl/Library/Caches/org.scalameta.metals/lsp.trace.json[0m
+2022.05.20 17:02:22 INFO  logging to file /Users/xtbl/dev/SCALA/scala3/.metals/metals.log[0m
+2022.05.20 17:02:22 INFO  Started: Metals version 0.11.5 in workspace '/Users/xtbl/dev/SCALA/scala3' for client Neovim 0.8.0.[0m
+2022.05.20 17:02:23 INFO  time: initialize in 1.27s[0m
+2022.05.20 17:02:24 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.[0m
+2022.05.20 17:02:24 INFO  Attempting to connect to the build server...[0m
+2022.05.20 17:02:23 INFO  skipping build import with status 'Installed'[0m
+2022.05.20 17:02:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xtbl/dev/SCALA/scala3/.metals/bsp.trace.json or /Users/xtbl/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2022.05.20 17:02:24 INFO  Attempting to connect to the build server...[0m
+2022.05.20 17:02:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xtbl/dev/SCALA/scala3/project/.metals/bsp.trace.json or /Users/xtbl/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2022.05.20 17:02:24 INFO  time: Connected to build server in 0.26s[0m
+2022.05.20 17:02:24 INFO  Connected to Build server: Bloop v1.5.0[0m
+2022.05.20 17:02:27 INFO  time: indexed workspace in 2.58s[0m
+2022.05.20 17:15:10 INFO  compiling root (1 scala source)[0m
+2022.05.20 17:15:10 INFO  time: compiled root in 0.84s[0m
+2022.05.20 17:16:06 INFO  compiling root (1 scala source)[0m
+2022.05.20 17:16:06 INFO  time: compiled root in 0.75s[0m
+Exception in thread "pool-5-thread-1" java.lang.AssertionError: assertion failed: invalid prefix TypeBounds(HKTypeLambda(List(A, T), List(TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any)), TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any))), AppliedType(TypeRef(ThisType(TypeRef(NoPrefix,module class collection)),trait SeqOps),List(TypeParamRef(A), HKTypeLambda(List(A), List(TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any))), AppliedType(TypeRef(ThisType(TypeRef(NoPrefix,module class collection)),trait Seq),List(TypeParamRef(A)))), TypeParamRef(T)))),HKTypeLambda(List(A, T), List(TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any)), TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any))), AppliedType(TypeRef(ThisType(TypeRef(NoPrefix,module class collection)),trait SeqOps),List(TypeParamRef(A), HKTypeLambda(List(A), List(TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any))), AppliedType(TypeRef(ThisType(TypeRef(NoPrefix,module class collection)),trait Seq),List(TypeParamRef(A)))), TypeParamRef(T)))))
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:8)
+	at dotty.tools.dotc.core.Types$NamedType.<init>(Types.scala:2088)
+	at dotty.tools.dotc.core.Types$TypeRef.<init>(Types.scala:2658)
+	at dotty.tools.dotc.core.Types$CachedTypeRef.<init>(Types.scala:2714)
+	at dotty.tools.dotc.core.Uniques$NamedTypeUniques.newType$1(Uniques.scala:45)
+	at dotty.tools.dotc.core.Uniques$NamedTypeUniques.linkedListLoop$1(Uniques.scala:56)
+	at dotty.tools.dotc.core.Uniques$NamedTypeUniques.enterIfNew(Uniques.scala:62)
+	at dotty.tools.dotc.core.Types$TypeRef$.apply(Types.scala:2773)
+	at dotty.tools.dotc.core.Types$NamedType$.apply(Types.scala:2749)
+	at dotty.tools.dotc.core.Types$NamedType.withPrefix(Types.scala:2581)
+	at dotty.tools.dotc.core.Types$NamedType.derivedSelect(Types.scala:2525)
+	at dotty.tools.dotc.core.Types$TypeMap.derivedSelect(Types.scala:5484)
+	at dotty.tools.dotc.core.Types$ApproximatingTypeMap.derivedSelect(Types.scala:5786)
+	at dotty.tools.dotc.core.TypeOps$AsSeenFromMap.apply(TypeOps.scala:101)
+	at dotty.tools.dotc.core.TypeOps$.asSeenFrom(TypeOps.scala:54)
+	at dotty.tools.dotc.core.Types$Type.asSeenFrom(Types.scala:1032)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.derived$1(Denotations.scala:1096)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.computeAsSeenFrom(Denotations.scala:1118)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.computeAsSeenFrom(Denotations.scala:1076)
+	at dotty.tools.dotc.core.Denotations$PreDenotation.asSeenFrom(Denotations.scala:135)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2065)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:686)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:878)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:669)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:653)
+	at scala.meta.internal.pc.CompilerSearchVisitor.$anonfun$1(CompilerSearchVisitor.scala:28)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.CompilerSearchVisitor.loop$1(CompilerSearchVisitor.scala:34)
+	at scala.meta.internal.pc.CompilerSearchVisitor.toSymbols(CompilerSearchVisitor.scala:40)
+	at scala.meta.internal.pc.CompilerSearchVisitor.visitClassfile(CompilerSearchVisitor.scala:51)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5(ClasspathSearch.scala:49)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5$adapted(ClasspathSearch.scala:39)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:563)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:561)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1293)
+	at scala.meta.internal.metals.ClasspathSearch.search(ClasspathSearch.scala:39)
+	at scala.meta.internal.metals.WorkspaceSymbolProvider.search(WorkspaceSymbolProvider.scala:60)
+	at scala.meta.internal.metals.MetalsSymbolSearch.search(MetalsSymbolSearch.scala:95)
+	at scala.meta.internal.pc.completions.Completions.enrichWithSymbolSearch(Completions.scala:90)
+	at scala.meta.internal.pc.completions.Completions.filterInteresting(Completions.scala:148)
+	at scala.meta.internal.pc.completions.Completions.completions(Completions.scala:50)
+	at scala.meta.internal.pc.completions.CompletionsProvider.completions(CompletionsProvider.scala:66)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.complete$$anonfun$1(ScalaPresentationCompiler.scala:102)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "pool-5-thread-2" java.lang.AssertionError: assertion failed: invalid prefix TypeBounds(HKTypeLambda(List(A, T), List(TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any)), TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any))), AppliedType(TypeRef(ThisType(TypeRef(NoPrefix,module class collection)),trait SeqOps),List(TypeParamRef(A), HKTypeLambda(List(A), List(TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any))), AppliedType(TypeRef(ThisType(TypeRef(NoPrefix,module class collection)),trait Seq),List(TypeParamRef(A)))), TypeParamRef(T)))),HKTypeLambda(List(A, T), List(TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any)), TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any))), AppliedType(TypeRef(ThisType(TypeRef(NoPrefix,module class collection)),trait SeqOps),List(TypeParamRef(A), HKTypeLambda(List(A), List(TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any))), AppliedType(TypeRef(ThisType(TypeRef(NoPrefix,module class collection)),trait Seq),List(TypeParamRef(A)))), TypeParamRef(T)))))
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:8)
+	at dotty.tools.dotc.core.Types$NamedType.<init>(Types.scala:2088)
+	at dotty.tools.dotc.core.Types$TypeRef.<init>(Types.scala:2658)
+	at dotty.tools.dotc.core.Types$CachedTypeRef.<init>(Types.scala:2714)
+	at dotty.tools.dotc.core.Uniques$NamedTypeUniques.newType$1(Uniques.scala:45)
+	at dotty.tools.dotc.core.Uniques$NamedTypeUniques.linkedListLoop$1(Uniques.scala:56)
+	at dotty.tools.dotc.core.Uniques$NamedTypeUniques.enterIfNew(Uniques.scala:62)
+	at dotty.tools.dotc.core.Types$TypeRef$.apply(Types.scala:2773)
+	at dotty.tools.dotc.core.Types$NamedType$.apply(Types.scala:2749)
+	at dotty.tools.dotc.core.Types$NamedType.withPrefix(Types.scala:2581)
+	at dotty.tools.dotc.core.Types$NamedType.derivedSelect(Types.scala:2525)
+	at dotty.tools.dotc.core.Types$TypeMap.derivedSelect(Types.scala:5484)
+	at dotty.tools.dotc.core.Types$ApproximatingTypeMap.derivedSelect(Types.scala:5786)
+	at dotty.tools.dotc.core.TypeOps$AsSeenFromMap.apply(TypeOps.scala:101)
+	at dotty.tools.dotc.core.TypeOps$.asSeenFrom(TypeOps.scala:54)
+	at dotty.tools.dotc.core.Types$Type.asSeenFrom(Types.scala:1032)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.derived$1(Denotations.scala:1096)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.computeAsSeenFrom(Denotations.scala:1118)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.computeAsSeenFrom(Denotations.scala:1076)
+	at dotty.tools.dotc.core.Denotations$PreDenotation.asSeenFrom(Denotations.scala:135)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2065)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:686)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:878)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:669)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:653)
+	at scala.meta.internal.pc.CompilerSearchVisitor.$anonfun$1(CompilerSearchVisitor.scala:28)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.CompilerSearchVisitor.loop$1(CompilerSearchVisitor.scala:34)
+	at scala.meta.internal.pc.CompilerSearchVisitor.toSymbols(CompilerSearchVisitor.scala:40)
+	at scala.meta.internal.pc.CompilerSearchVisitor.visitClassfile(CompilerSearchVisitor.scala:51)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5(ClasspathSearch.scala:49)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5$adapted(ClasspathSearch.scala:39)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:563)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:561)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1293)
+	at scala.meta.internal.metals.ClasspathSearch.search(ClasspathSearch.scala:39)
+	at scala.meta.internal.metals.WorkspaceSymbolProvider.search(WorkspaceSymbolProvider.scala:60)
+	at scala.meta.internal.metals.MetalsSymbolSearch.search(MetalsSymbolSearch.scala:95)
+	at scala.meta.internal.pc.completions.Completions.enrichWithSymbolSearch(Completions.scala:90)
+	at scala.meta.internal.pc.completions.Completions.filterInteresting(Completions.scala:148)
+	at scala.meta.internal.pc.completions.Completions.completions(Completions.scala:50)
+	at scala.meta.internal.pc.completions.CompletionsProvider.completions(CompletionsProvider.scala:66)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.complete$$anonfun$1(ScalaPresentationCompiler.scala:102)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2022.05.20 17:21:53 INFO  compiling root (1 scala source)[0m
+2022.05.20 17:21:53 INFO  time: compiled root in 0.52s[0m
+Exception in thread "pool-5-thread-3" java.lang.AssertionError: assertion failed: invalid prefix TypeBounds(HKTypeLambda(List(A, T), List(TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any)), TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any))), AppliedType(TypeRef(ThisType(TypeRef(NoPrefix,module class collection)),trait SeqOps),List(TypeParamRef(A), HKTypeLambda(List(A), List(TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any))), AppliedType(TypeRef(ThisType(TypeRef(NoPrefix,module class collection)),trait Seq),List(TypeParamRef(A)))), TypeParamRef(T)))),HKTypeLambda(List(A, T), List(TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any)), TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any))), AppliedType(TypeRef(ThisType(TypeRef(NoPrefix,module class collection)),trait SeqOps),List(TypeParamRef(A), HKTypeLambda(List(A), List(TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any))), AppliedType(TypeRef(ThisType(TypeRef(NoPrefix,module class collection)),trait Seq),List(TypeParamRef(A)))), TypeParamRef(T)))))
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:8)
+	at dotty.tools.dotc.core.Types$NamedType.<init>(Types.scala:2088)
+	at dotty.tools.dotc.core.Types$TypeRef.<init>(Types.scala:2658)
+	at dotty.tools.dotc.core.Types$CachedTypeRef.<init>(Types.scala:2714)
+	at dotty.tools.dotc.core.Uniques$NamedTypeUniques.newType$1(Uniques.scala:45)
+	at dotty.tools.dotc.core.Uniques$NamedTypeUniques.linkedListLoop$1(Uniques.scala:56)
+	at dotty.tools.dotc.core.Uniques$NamedTypeUniques.enterIfNew(Uniques.scala:62)
+	at dotty.tools.dotc.core.Types$TypeRef$.apply(Types.scala:2773)
+	at dotty.tools.dotc.core.Types$NamedType$.apply(Types.scala:2749)
+	at dotty.tools.dotc.core.Types$NamedType.withPrefix(Types.scala:2581)
+	at dotty.tools.dotc.core.Types$NamedType.derivedSelect(Types.scala:2525)
+	at dotty.tools.dotc.core.Types$TypeMap.derivedSelect(Types.scala:5484)
+	at dotty.tools.dotc.core.Types$ApproximatingTypeMap.derivedSelect(Types.scala:5786)
+	at dotty.tools.dotc.core.TypeOps$AsSeenFromMap.apply(TypeOps.scala:101)
+	at dotty.tools.dotc.core.TypeOps$.asSeenFrom(TypeOps.scala:54)
+	at dotty.tools.dotc.core.Types$Type.asSeenFrom(Types.scala:1032)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.derived$1(Denotations.scala:1096)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.computeAsSeenFrom(Denotations.scala:1118)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.computeAsSeenFrom(Denotations.scala:1076)
+	at dotty.tools.dotc.core.Denotations$PreDenotation.asSeenFrom(Denotations.scala:135)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2065)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:686)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:878)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:669)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:653)
+	at scala.meta.internal.pc.CompilerSearchVisitor.$anonfun$1(CompilerSearchVisitor.scala:28)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.CompilerSearchVisitor.loop$1(CompilerSearchVisitor.scala:34)
+	at scala.meta.internal.pc.CompilerSearchVisitor.toSymbols(CompilerSearchVisitor.scala:40)
+	at scala.meta.internal.pc.CompilerSearchVisitor.visitClassfile(CompilerSearchVisitor.scala:51)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5(ClasspathSearch.scala:49)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5$adapted(ClasspathSearch.scala:39)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:563)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:561)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1293)
+	at scala.meta.internal.metals.ClasspathSearch.search(ClasspathSearch.scala:39)
+	at scala.meta.internal.metals.WorkspaceSymbolProvider.search(WorkspaceSymbolProvider.scala:60)
+	at scala.meta.internal.metals.MetalsSymbolSearch.search(MetalsSymbolSearch.scala:95)
+	at scala.meta.internal.pc.completions.Completions.enrichWithSymbolSearch(Completions.scala:90)
+	at scala.meta.internal.pc.completions.Completions.filterInteresting(Completions.scala:148)
+	at scala.meta.internal.pc.completions.Completions.completions(Completions.scala:50)
+	at scala.meta.internal.pc.completions.CompletionsProvider.completions(CompletionsProvider.scala:66)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.complete$$anonfun$1(ScalaPresentationCompiler.scala:102)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "pool-5-thread-4" java.lang.AssertionError: assertion failed: invalid prefix TypeBounds(HKTypeLambda(List(A, T), List(TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any)), TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any))), AppliedType(TypeRef(ThisType(TypeRef(NoPrefix,module class collection)),trait SeqOps),List(TypeParamRef(A), HKTypeLambda(List(A), List(TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any))), AppliedType(TypeRef(ThisType(TypeRef(NoPrefix,module class collection)),trait Seq),List(TypeParamRef(A)))), TypeParamRef(T)))),HKTypeLambda(List(A, T), List(TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any)), TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any))), AppliedType(TypeRef(ThisType(TypeRef(NoPrefix,module class collection)),trait SeqOps),List(TypeParamRef(A), HKTypeLambda(List(A), List(TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any))), AppliedType(TypeRef(ThisType(TypeRef(NoPrefix,module class collection)),trait Seq),List(TypeParamRef(A)))), TypeParamRef(T)))))
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:8)
+	at dotty.tools.dotc.core.Types$NamedType.<init>(Types.scala:2088)
+	at dotty.tools.dotc.core.Types$TypeRef.<init>(Types.scala:2658)
+	at dotty.tools.dotc.core.Types$CachedTypeRef.<init>(Types.scala:2714)
+	at dotty.tools.dotc.core.Uniques$NamedTypeUniques.newType$1(Uniques.scala:45)
+	at dotty.tools.dotc.core.Uniques$NamedTypeUniques.linkedListLoop$1(Uniques.scala:56)
+	at dotty.tools.dotc.core.Uniques$NamedTypeUniques.enterIfNew(Uniques.scala:62)
+	at dotty.tools.dotc.core.Types$TypeRef$.apply(Types.scala:2773)
+	at dotty.tools.dotc.core.Types$NamedType$.apply(Types.scala:2749)
+	at dotty.tools.dotc.core.Types$NamedType.withPrefix(Types.scala:2581)
+	at dotty.tools.dotc.core.Types$NamedType.derivedSelect(Types.scala:2525)
+	at dotty.tools.dotc.core.Types$TypeMap.derivedSelect(Types.scala:5484)
+	at dotty.tools.dotc.core.Types$ApproximatingTypeMap.derivedSelect(Types.scala:5786)
+	at dotty.tools.dotc.core.TypeOps$AsSeenFromMap.apply(TypeOps.scala:101)
+	at dotty.tools.dotc.core.TypeOps$.asSeenFrom(TypeOps.scala:54)
+	at dotty.tools.dotc.core.Types$Type.asSeenFrom(Types.scala:1032)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.derived$1(Denotations.scala:1096)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.computeAsSeenFrom(Denotations.scala:1118)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.computeAsSeenFrom(Denotations.scala:1076)
+	at dotty.tools.dotc.core.Denotations$PreDenotation.asSeenFrom(Denotations.scala:135)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2065)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:686)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:878)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:669)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:653)
+	at scala.meta.internal.pc.CompilerSearchVisitor.$anonfun$1(CompilerSearchVisitor.scala:28)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.CompilerSearchVisitor.loop$1(CompilerSearchVisitor.scala:34)
+	at scala.meta.internal.pc.CompilerSearchVisitor.toSymbols(CompilerSearchVisitor.scala:40)
+	at scala.meta.internal.pc.CompilerSearchVisitor.visitClassfile(CompilerSearchVisitor.scala:51)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5(ClasspathSearch.scala:49)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5$adapted(ClasspathSearch.scala:39)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:563)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:561)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1293)
+	at scala.meta.internal.metals.ClasspathSearch.search(ClasspathSearch.scala:39)
+	at scala.meta.internal.metals.WorkspaceSymbolProvider.search(WorkspaceSymbolProvider.scala:60)
+	at scala.meta.internal.metals.MetalsSymbolSearch.search(MetalsSymbolSearch.scala:95)
+	at scala.meta.internal.pc.completions.Completions.enrichWithSymbolSearch(Completions.scala:90)
+	at scala.meta.internal.pc.completions.Completions.filterInteresting(Completions.scala:148)
+	at scala.meta.internal.pc.completions.Completions.completions(Completions.scala:50)
+	at scala.meta.internal.pc.completions.CompletionsProvider.completions(CompletionsProvider.scala:66)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.complete$$anonfun$1(ScalaPresentationCompiler.scala:102)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2022.05.20 17:23:59 INFO  compiling root (1 scala source)[0m
+2022.05.20 17:23:59 INFO  time: compiled root in 0.49s[0m
+2022.05.20 17:24:03 INFO  compiling root (1 scala source)[0m
+2022.05.20 17:24:03 INFO  time: compiled root in 0.42s[0m
+2022.05.20 17:24:34 INFO  compiling root (1 scala source)[0m
+2022.05.20 17:24:34 INFO  time: compiled root in 0.41s[0m
+2022.05.20 17:43:40 ERROR scalafmt: /Users/xtbl/dev/SCALA/scala3/src/main/scala/Main.scala:36: error: [dialect scala3] illegal start of definition identifier
+extension
+^[0m
+Exception in thread "pool-5-thread-5" java.lang.AssertionError: assertion failed: invalid prefix TypeBounds(HKTypeLambda(List(A, T), List(TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any)), TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any))), AppliedType(TypeRef(ThisType(TypeRef(NoPrefix,module class collection)),trait SeqOps),List(TypeParamRef(A), HKTypeLambda(List(A), List(TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any))), AppliedType(TypeRef(ThisType(TypeRef(NoPrefix,module class collection)),trait Seq),List(TypeParamRef(A)))), TypeParamRef(T)))),HKTypeLambda(List(A, T), List(TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any)), TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any))), AppliedType(TypeRef(ThisType(TypeRef(NoPrefix,module class collection)),trait SeqOps),List(TypeParamRef(A), HKTypeLambda(List(A), List(TypeBounds(TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Nothing),TypeRef(ThisType(TypeRef(NoPrefix,module class scala)),class Any))), AppliedType(TypeRef(ThisType(TypeRef(NoPrefix,module class collection)),trait Seq),List(TypeParamRef(A)))), TypeParamRef(T)))))
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:8)
+	at dotty.tools.dotc.core.Types$NamedType.<init>(Types.scala:2088)
+	at dotty.tools.dotc.core.Types$TypeRef.<init>(Types.scala:2658)
+	at dotty.tools.dotc.core.Types$CachedTypeRef.<init>(Types.scala:2714)
+	at dotty.tools.dotc.core.Uniques$NamedTypeUniques.newType$1(Uniques.scala:45)
+	at dotty.tools.dotc.core.Uniques$NamedTypeUniques.linkedListLoop$1(Uniques.scala:56)
+	at dotty.tools.dotc.core.Uniques$NamedTypeUniques.enterIfNew(Uniques.scala:62)
+	at dotty.tools.dotc.core.Types$TypeRef$.apply(Types.scala:2773)
+	at dotty.tools.dotc.core.Types$NamedType$.apply(Types.scala:2749)
+	at dotty.tools.dotc.core.Types$NamedType.withPrefix(Types.scala:2581)
+	at dotty.tools.dotc.core.Types$NamedType.derivedSelect(Types.scala:2525)
+	at dotty.tools.dotc.core.Types$TypeMap.derivedSelect(Types.scala:5484)
+	at dotty.tools.dotc.core.Types$ApproximatingTypeMap.derivedSelect(Types.scala:5786)
+	at dotty.tools.dotc.core.TypeOps$AsSeenFromMap.apply(TypeOps.scala:101)
+	at dotty.tools.dotc.core.TypeOps$.asSeenFrom(TypeOps.scala:54)
+	at dotty.tools.dotc.core.Types$Type.asSeenFrom(Types.scala:1032)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.derived$1(Denotations.scala:1096)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.computeAsSeenFrom(Denotations.scala:1118)
+	at dotty.tools.dotc.core.Denotations$SingleDenotation.computeAsSeenFrom(Denotations.scala:1076)
+	at dotty.tools.dotc.core.Denotations$PreDenotation.asSeenFrom(Denotations.scala:135)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2065)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:686)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:878)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:669)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:653)
+	at scala.meta.internal.pc.CompilerSearchVisitor.$anonfun$1(CompilerSearchVisitor.scala:28)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.CompilerSearchVisitor.loop$1(CompilerSearchVisitor.scala:34)
+	at scala.meta.internal.pc.CompilerSearchVisitor.toSymbols(CompilerSearchVisitor.scala:40)
+	at scala.meta.internal.pc.CompilerSearchVisitor.visitClassfile(CompilerSearchVisitor.scala:51)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5(ClasspathSearch.scala:49)
+	at scala.meta.internal.metals.ClasspathSearch.$anonfun$search$5$adapted(ClasspathSearch.scala:39)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:563)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:561)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1293)
+	at scala.meta.internal.metals.ClasspathSearch.search(ClasspathSearch.scala:39)
+	at scala.meta.internal.metals.WorkspaceSymbolProvider.search(WorkspaceSymbolProvider.scala:60)
+	at scala.meta.internal.metals.MetalsSymbolSearch.search(MetalsSymbolSearch.scala:95)
+	at scala.meta.internal.pc.completions.Completions.enrichWithSymbolSearch(Completions.scala:90)
+	at scala.meta.internal.pc.completions.Completions.filterInteresting(Completions.scala:148)
+	at scala.meta.internal.pc.completions.Completions.completions(Completions.scala:50)
+	at scala.meta.internal.pc.completions.CompletionsProvider.completions(CompletionsProvider.scala:66)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.complete$$anonfun$1(ScalaPresentationCompiler.scala:102)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2022.05.20 17:45:30 ERROR scalafmt: /Users/xtbl/dev/SCALA/scala3/src/main/scala/Main.scala:36: error: [dialect scala3] expected =>> or =>
+extension [A] (List: [A])
+                        ^[0m
+2022.05.20 17:45:32 INFO  compiling root (1 scala source)[0m
+2022.05.20 17:45:32 INFO  time: compiled root in 0.26s[0m
+2022.05.20 17:46:36 INFO  compiling root (1 scala source)[0m
+2022.05.20 17:46:36 INFO  time: compiled root in 0.15s[0m
+2022.05.20 17:46:49 INFO  compiling root (1 scala source)[0m
+2022.05.20 17:46:49 INFO  time: compiled root in 0.14s[0m
+2022.05.20 17:48:04 INFO  compiling root (1 scala source)[0m
+2022.05.20 17:48:04 INFO  time: compiled root in 0.25s[0m
+2022.05.20 17:48:09 INFO  compiling root (1 scala source)[0m
+2022.05.20 17:48:09 INFO  time: compiled root in 0.15s[0m
+2022.05.20 17:49:12 INFO  compiling root (1 scala source)[0m
+2022.05.20 17:49:12 INFO  time: compiled root in 0.13s[0m
+2022.05.20 17:49:20 INFO  compiling root (1 scala source)[0m
+2022.05.20 17:49:20 INFO  time: compiled root in 0.64s[0m
+2022.05.21 21:43:49 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xtbl/dev/SCALA/scala3/.metals/lsp.trace.json or /Users/xtbl/Library/Caches/org.scalameta.metals/lsp.trace.json[0m
+2022.05.21 21:43:49 INFO  logging to file /Users/xtbl/.metals/metals.log[0m

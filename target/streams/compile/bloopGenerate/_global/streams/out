@@ -1,0 +1,4 @@
+[debug] [root] Classpath dependencies List()
+[debug] [root] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'root' to '/Users/xtbl/dev/SCALA/scala3/.bloop/root.json'
+[success] Generated .bloop/root.json
